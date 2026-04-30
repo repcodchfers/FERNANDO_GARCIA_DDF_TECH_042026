@@ -10,13 +10,17 @@
 Abaixo, o cronograma macro de execução do projeto seguindo as fases do Ciclo de Vida de Dados da Dadosfera e práticas de PMBOK.
 ```mermaid
 gantt
-    title Desafio Dadosfera - Sprint 4 Dias
-    dateFormat  YYYY-MM-DD
-    section Planejamento & Ingestão
-    Item 0 e 1: Planejamento e Carga (Collect) :active, d1, 2026-04-30, 1d
-    section Engenharia & IA
-    Item 3, 4 e 5: Catalog, Quality e GenAI    : d2, 2026-05-01, 1d
-    section Analytics & Pipeline
-    Item 6, 7 e 8: Modelagem, Dash e Pipeline  : d3, 2026-05-02, 1d
-    section Entrega Final
-    Item 9 e 10: Data App e Vídeo de Entrega   : d4, 2026-05-03, 1d
+    title Planejamento do Projeto - 4 Dias
+    dateFormat  DD-MM
+    axisFormat  %d/%m
+
+    section Engenharia
+    Ingestão e Carga (Collect)      :active, p1, 30-04, 1d
+    Data Quality e Catálogo         :p2, after p1, 1d
+    
+    section Inteligência
+    Processamento LLM (GenAI)       :p3, after p2, 1d
+    Modelagem e Analytics           :p4, after p3, 1d
+    
+    section Entrega
+    Data App e Vídeo Final          :p5, after p4, 1d
