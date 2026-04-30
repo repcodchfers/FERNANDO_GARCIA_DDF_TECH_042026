@@ -1,7 +1,7 @@
 # Case Técnico Dadosfera 
 
 
-**Domínio Escolhido:** Analytics para Marketplace de Food Delivery (Dataset de 197k registros).
+**Domínio Escolhido:** Analytics para Marketplace de Food Delivery.
 
 ---
 
@@ -10,7 +10,7 @@
 Abaixo, o cronograma macro de execução do projeto seguindo as fases do Ciclo de Vida de Dados da Dadosfera e práticas de PMBOK.
 ```mermaid
 gantt
-    title Planejamento do Projeto - 4 Dias
+    title Planejamento do Projeto
     dateFormat  DD-MM
     axisFormat  %d/%m
 
