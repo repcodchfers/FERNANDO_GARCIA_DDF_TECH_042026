@@ -103,7 +103,7 @@ erDiagram
         int month
         int year
     }
-  
+``` 
 ## 📊 Item 7 - Análise de Dados (Visualizar)
 
 Nesta etapa, utilizamos o **Metabase** integrado à **Dadosfera** para transformar os dados modelados na camada **Gold** em dashboards executivos, focados na geração de insights para tomada de decisão.
