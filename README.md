@@ -54,5 +54,52 @@ Nesta etapa, demonstramos a capacidade de transformar dados desestruturados em *
 
 ### **Engenharia de Prompt e Estruturação:**
 *   **Prompt Engineering:** Desenvolvimento de instruções específicas para garantir que a IA atuasse como um especialista em culinária indiana. Ex:prompt = f"Retorne um JSON com ingrediente principal e se é veg (true/false) para: {test_dishes}"
+## 📐 Item 6 - Modelagem de Dados (Star Schema)
 
+Nesta etapa, estruturamos os dados seguindo a metodologia de **Ralph Kimball**, transformando a tabela flat original em um modelo **Star Schema (Esquema Estrela)**. Esta arquitetura é otimizada para ferramentas de BI como o **Metabase**, garantindo alta performance em consultas analíticas.
+
+### **Diagrama Entidade-Relacionamento (ERD):**
+```mermaid
+erDiagram
+    FACT_ORDERS ||--o{ DIM_RESTAURANT : "restaurant_key"
+    FACT_ORDERS ||--o{ DIM_DISH : "dish_key"
+    FACT_ORDERS ||--o{ DIM_LOCATION : "location_key"
+    FACT_ORDERS ||--o{ DIM_DATE : "date_key"
+
+    FACT_ORDERS {
+        int date_key
+        int restaurant_key
+        int dish_key
+        int location_key
+        float Price
+        float Rating
+        int Rating_Count
+    }
+
+    DIM_RESTAURANT {
+        int restaurant_key PK
+        string Restaurant_Name
+    }
+
+    DIM_DISH {
+        int dish_key PK
+        string Dish_Name
+        string Category
+        string super_category
+    }
+
+    DIM_LOCATION {
+        int location_key PK
+        string State
+        string City
+        string Location
+    }
+
+    DIM_DATE {
+        int date_key PK
+        date full_date
+        int day
+        int month
+        int year
+    }
   
