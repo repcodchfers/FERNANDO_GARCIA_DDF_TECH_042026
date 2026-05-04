@@ -24,3 +24,7 @@ gantt
     
     section Entrega
     Data App e Vídeo Final          :p5, after p4, 2d
+## 📥 Item 1 & 2 - Base de Dados e Ingestão (Collect)
+*   **Dataset Selecionado:** Swiggy Marketplace Dataset (Índia).
+*   **Volume:**  197430  registros, garantindo a robustez da análise.
+*   **Estratégia de Ingestão:** Utilização do módulo **Collect** da Dadosfera para carregamento de raw data (Camada Bronze).
