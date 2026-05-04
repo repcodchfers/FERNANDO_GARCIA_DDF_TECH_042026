@@ -20,7 +20,7 @@ gantt
     
     section Inteligência
     Processamento LLM (GenAI)       :p3, after p2, 1d
-    Modelagem e Analytics           :p4, after p3, 1d
+    Modelagem e Analytics           :p4, after p3, 2d
     
     section Entrega
-    Data App e Vídeo Final          :p5, after p4, 1d
+    Data App e Vídeo Final          :p5, after p4, 2d
