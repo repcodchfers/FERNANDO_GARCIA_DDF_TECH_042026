@@ -29,3 +29,21 @@ gantt
 *   **Dataset Selecionado:** Swiggy Marketplace Dataset (Índia).
 *   **Volume:**  197430  registros, garantindo a robustez da análise.
 *   **Estratégia de Ingestão:** Utilização do módulo **Collect** da Dadosfera para carregamento de raw data (Camada Bronze).
+
+## 🔍 Item 3 & 4 - Catálogo e Data Quality (Explorar)
+
+Para garantir a confiança nos insights gerados, implementei uma camada de **Data Quality** rigorosa utilizando a biblioteca `Great Expectations`.
+
+### Governança e Catálogo:
+*   **Identificação:** Os dados foram catalogados na Dadosfera .
+*   **Profilagem:** Realizacao de uma análise exploratória de dados (EDA) como etapa inicial para entender a estrutura, resumir características, identificar padrões.
+
+### Regras de Validação (Expectations):
+Para garantir que os dados consumidos pelo negócio fossem confiáveis , implementamos umas regras de validacao utilizando Great Expectations.
+1.  **Price (INR):** Deve estar entre 0.1 e 10.000 (evitando valores negativos ou erros de input).
+2.  **Rating:** Deve estar no intervalo de 1.0 a 5.0.
+3.  **Restaurant Name & Order Date:** Proibição de valores nulos (Not Null).
+
+**Resultado da Validação:**
+*   **Status:**  Sucesso Geral.Ativos Gerados: O relatório completo de validação foi salvo na pasta quality/relatorio_qualidade.json.
+*   
