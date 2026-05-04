@@ -38,7 +38,7 @@ Para garantir a confiança nos insights gerados, implementei uma camada de **Dat
 *   **Identificação:** Os dados foram catalogados na Dadosfera .
 *   **Profilagem:** Realizacao de uma análise exploratória de dados (EDA) como etapa inicial para entender a estrutura, resumir características, identificar padrões.
 
-### Regras de Validação (Expectations):
+## Regras de Validação (Expectations):
 Para garantir que os dados consumidos pelo negócio fossem confiáveis , implementamos umas regras de validacao utilizando Great Expectations.
 1.  **Price (INR):** Deve estar entre 0.1 e 10.000 (evitando valores negativos ou erros de input).
 2.  **Rating:** Deve estar no intervalo de 1.0 a 5.0.
@@ -46,4 +46,13 @@ Para garantir que os dados consumidos pelo negócio fossem confiáveis , impleme
 
 **Resultado da Validação:**
 *   **Status:**  Sucesso Geral.Ativos Gerados: O relatório completo de validação foi salvo na pasta quality/relatorio_qualidade.json.
-    
+Nesta etapa, demonstramos a capacidade de transformar dados desestruturados em **features inteligentes**, utilizando modelos de linguagem de larga escala (LLMs).
+
+## Item 5 **Processamento com LLMs:**
+*   **Enriquecimento:** A ideia era usar um diccionario em python junto com o modelo **Gemini 2.5 Flash** para processar nomes de pratos e descrições textuais.
+*   **Extração de Atributos:** Implementação em Python para identificar o **ingrediente principal** e a **classificação** (Vegetariano/Não-Vegetariano).
+
+### **Engenharia de Prompt e Estruturação:**
+*   **Prompt Engineering:** Desenvolvimento de instruções específicas para garantir que a IA atuasse como um especialista em culinária indiana. Ex:prompt = f"Retorne um JSON com ingrediente principal e se é veg (true/false) para: {test_dishes}"
+
+  
