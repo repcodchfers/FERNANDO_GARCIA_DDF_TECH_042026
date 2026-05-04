@@ -58,7 +58,7 @@ Nesta etapa, demonstramos a capacidade de transformar dados desestruturados em *
 
 Nesta etapa, estruturamos os dados seguindo a metodologia de **Ralph Kimball**, transformando a tabela flat original em um modelo **Star Schema (Esquema Estrela)**. Esta arquitetura é otimizada para ferramentas de BI como o **Metabase**, garantindo alta performance em consultas analíticas.
 
-### **Diagrama Entidade-Relacionamento (ERD):**
+### **Modelo Star Schema:**
 ```mermaid
 erDiagram
     FACT_ORDERS ||--o{ DIM_RESTAURANT : "restaurant_key"
@@ -84,6 +84,7 @@ erDiagram
     DIM_DISH {
         int dish_key PK
         string Dish_Name
+        string Dish_clean
         string Category
         string super_category
     }
