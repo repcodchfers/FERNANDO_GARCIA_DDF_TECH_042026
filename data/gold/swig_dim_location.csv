@@ -1,0 +1,996 @@
+﻿State,City,Location,location_key
+Karnataka,Bengaluru,Rajarajeshwari Nagar,1
+Karnataka,Bengaluru,Kengeri,2
+Karnataka,Bengaluru,Kanmanike Village,3
+Karnataka,Bengaluru,Bidadi,4
+Karnataka,Bengaluru,Kengeri Satellite Town,5
+Karnataka,Bengaluru,Kanakapura Road,6
+Karnataka,Bengaluru,Jawaharlal Nehru Road,7
+Karnataka,Bengaluru,KENGERI UPANAGAR,8
+Karnataka,Bengaluru,Rr Nagar,9
+Karnataka,Bengaluru,Gopalan Arcade Mall,10
+Karnataka,Bengaluru,Forum Mall,11
+Karnataka,Bengaluru,Kanakapura,12
+Karnataka,Bengaluru,KENGERI SATELLITE TOWN,13
+Karnataka,Bengaluru,Uttarahalli,14
+Karnataka,Bengaluru,Global Mall,15
+Karnataka,Bengaluru,Mysore Road,16
+Karnataka,Bengaluru,Vijay Nagar,17
+Karnataka,Bengaluru,vijayanagar,18
+Karnataka,Bengaluru,Banashankari,19
+Karnataka,Bengaluru,BBMP West,20
+Karnataka,Bengaluru,RR Nagar,21
+Karnataka,Bengaluru,Beml Layout,22
+Karnataka,Bengaluru,Whitefield,23
+Karnataka,Bengaluru,Varthur Gunjur,24
+Karnataka,Bengaluru,"Hope Farm, Varthur Main Road",25
+Karnataka,Bengaluru,Varthur,26
+Karnataka,Bengaluru,WHITEFIELD,27
+Karnataka,Bengaluru,Hesaraghatta,28
+Karnataka,Bengaluru,Jalahalli Cross,29
+Karnataka,Bengaluru,Vidyaranyapura,30
+Karnataka,Bengaluru,M.S.Ramaiah Enclave,31
+Karnataka,Bengaluru,Dasarahalli,32
+Karnataka,Bengaluru,maruti layout,33
+Karnataka,Bengaluru,Mathikere- BELÃ‚Âroad,34
+Karnataka,Bengaluru,Peenya,35
+Karnataka,Bengaluru,Jalahalli-Peenya,36
+Karnataka,Bengaluru,Jalahalli,37
+Karnataka,Bengaluru,Yelahanka,38
+Karnataka,Bengaluru,New BEL Road,39
+Karnataka,Bengaluru,R.M.V. 2nd Stage,40
+Karnataka,Bengaluru,"Sanjay Nagar, New BEL Road",41
+Karnataka,Bengaluru,Yeshwantpur,42
+Karnataka,Bengaluru,Mathikere,43
+Karnataka,Bengaluru,HMT Layout,44
+Karnataka,Bengaluru,Yeswanthpur,45
+Karnataka,Bengaluru,J P Nagar,46
+Karnataka,Bengaluru,Bannerghatta Road,47
+Karnataka,Bengaluru,Navaratan Gardens,48
+Karnataka,Bengaluru,Vajarahalli Gramatana,49
+Karnataka,Bengaluru,Kengeri Satlite Town,50
+Karnataka,Bengaluru,BHEEMANAHALLI- BIDADI,51
+Karnataka,Bengaluru,Dommasandra,52
+Karnataka,Bengaluru,Sarjapur,53
+Karnataka,Bengaluru,Kaikondrahalli,54
+Karnataka,Bengaluru,Bellandur Sarjapur,55
+Karnataka,Bengaluru,Sarjapur Road,56
+Karnataka,Bengaluru,Sompura,57
+Karnataka,Bengaluru,Sarjapur-Marathahalli Road,58
+Karnataka,Bengaluru,Sarjapur Road Yamare,59
+Karnataka,Bengaluru,Junnasandra,60
+Karnataka,Bengaluru,Anekal,61
+Karnataka,Bengaluru,Gunjur Village,62
+Karnataka,Bengaluru,Bellandur,63
+Karnataka,Bengaluru,SAMSKRUTI GARDENIA,64
+Karnataka,Bengaluru,Kadubeesanahalli,65
+Karnataka,Bengaluru,Seege Halli,66
+Maharashtra,Mumbai,Nerul,67
+Maharashtra,Mumbai,Hawares Centurion,68
+Maharashtra,Mumbai,CBD Belapur,69
+Maharashtra,Mumbai,Safal park,70
+Maharashtra,Mumbai,SHREEJI PLAZA,71
+Maharashtra,Mumbai,Seawoods,72
+Maharashtra,Mumbai,Cbd Belapur,73
+Maharashtra,Mumbai,BELAPUR,74
+Maharashtra,Mumbai,Kharghar,75
+Maharashtra,Mumbai,Navi Mumbai,76
+Maharashtra,Mumbai,Panvel City,77
+Maharashtra,Mumbai,Vashi,78
+Maharashtra,Mumbai,HAWRE CENTURION MALL,79
+Maharashtra,Mumbai,Millennium Park Chs,80
+Maharashtra,Mumbai,Ulwe,81
+Maharashtra,Mumbai,ULWE SECTOR 19,82
+Maharashtra,Mumbai,Ulave,83
+Maharashtra,Mumbai,ULWE,84
+Maharashtra,Mumbai,"Seawoods, Merul",85
+Maharashtra,Mumbai,sector 21,86
+Maharashtra,Mumbai,Viviana,87
+Maharashtra,Mumbai,Thane West,88
+Maharashtra,Mumbai,Thane Panchpakhadi,89
+Maharashtra,Mumbai,Vartaknagar Manpada Zone,90
+Tamil Nadu,Chennai,Chromepet,91
+Tamil Nadu,Chennai,Chrompet,92
+Tamil Nadu,Chennai,Guindy Industrial Estate,93
+Tamil Nadu,Chennai,Keelkatalai,94
+Tamil Nadu,Chennai,Keelkattalai,95
+Tamil Nadu,Chennai,Aero hub,96
+Tamil Nadu,Chennai,Aerohub,97
+Tamil Nadu,Chennai,Arekere,98
+Tamil Nadu,Chennai,Aerohub East Mall,99
+Tamil Nadu,Chennai,Pallavaram,100
+Tamil Nadu,Chennai,Pammal main road,101
+Tamil Nadu,Chennai,Pammal,102
+Tamil Nadu,Chennai,Tondiarpet,103
+Tamil Nadu,Chennai,Porur,104
+Tamil Nadu,Chennai,Ramapuram,105
+Tamil Nadu,Chennai,Thirumazhisai,106
+Tamil Nadu,Chennai,Sriperumbudur,107
+Tamil Nadu,Chennai,Nazarathpettai,108
+Tamil Nadu,Chennai,Poonamallee,109
+Tamil Nadu,Chennai,Bhaikadai,110
+Tamil Nadu,Chennai,Mangadu,111
+Tamil Nadu,Chennai,Thandalam,112
+Tamil Nadu,Chennai,Pidarithangal,113
+Tamil Nadu,Chennai,"Kattupakkam,Poonamallee",114
+Tamil Nadu,Chennai,Guindy Kathipara Bridge,115
+Tamil Nadu,Chennai,Velachery,116
+Tamil Nadu,Chennai,Nanganallur,117
+Delhi,New Delhi,Raj Nagar,118
+Delhi,New Delhi,Gaur City 1,119
+Delhi,New Delhi,Shahberi,120
+Delhi,New Delhi,OPULENT MALL,121
+Delhi,New Delhi,Nehru Nagar,122
+Delhi,New Delhi,Navyug Market,123
+Delhi,New Delhi,Gaur City,124
+Delhi,New Delhi,Pratap Vihar,125
+Delhi,New Delhi,Crossing Republic,126
+Delhi,New Delhi,Crossings Republik Township,127
+Delhi,New Delhi,crossing republic,128
+Delhi,New Delhi,Gaur City 2,129
+Delhi,New Delhi,Indirapuram,130
+Delhi,New Delhi,Ghaziabad,131
+Delhi,New Delhi,Dwarka,132
+Delhi,New Delhi,Pacific Mall,133
+Delhi,New Delhi,Kakrola,134
+Delhi,New Delhi,PACIFIC MALL DWARKA,135
+Delhi,New Delhi,Uttam Nagar,136
+Delhi,New Delhi,Sector- 21,137
+Delhi,New Delhi,M3M MARKET,138
+Delhi,New Delhi,Rohini,139
+Delhi,New Delhi,Unity Mall,140
+Delhi,New Delhi,NIHANKARI SATSANG BHAWAN,141
+Delhi,New Delhi,Paschim Vihar,142
+Telangana,Hyderabad,Kapil Tower,143
+Telangana,Hyderabad,Nanakramguda,144
+Telangana,Hyderabad,RANGAREDDY,145
+Telangana,Hyderabad,Gachibowli,146
+Telangana,Hyderabad,Lingampally,147
+Telangana,Hyderabad,Neo Aparna Mall,148
+Telangana,Hyderabad,Huda Layout,149
+Telangana,Hyderabad,Lingampally & Nallagandla,150
+Telangana,Hyderabad,VATTINAGULAPALLI,151
+Telangana,Hyderabad,Gandipet Mandal,152
+Telangana,Hyderabad,Forest Dept Colony,153
+Telangana,Hyderabad,Serlingampally Circle No 20,154
+Telangana,Hyderabad,Santosh nagar,155
+Telangana,Hyderabad,Meerpet,156
+Telangana,Hyderabad,New Malakpet,157
+Telangana,Hyderabad,Shamshabad,158
+Telangana,Hyderabad,shamshabad,159
+Telangana,Hyderabad,Attapur,160
+Telangana,Hyderabad,shamshabaad,161
+Telangana,Hyderabad,Katedan,162
+Telangana,Hyderabad,Mahaveer Road Gaganpahad,163
+Telangana,Hyderabad,Rambagh Colony,164
+Telangana,Hyderabad,Malakpet,165
+Telangana,Hyderabad,M-Qube Mall,166
+Telangana,Hyderabad,Pebel City,167
+Telangana,Hyderabad,aramghar,168
+Telangana,Hyderabad,Narepally,169
+Telangana,Hyderabad,Medipally,170
+Telangana,Hyderabad,Pocharam,171
+Telangana,Hyderabad,Narapally,172
+Telangana,Hyderabad,Uppal,173
+Telangana,Hyderabad,Boduppal,174
+West Bengal,Kolkata,RAJPUR-SONARPUR MUNICIPALITY,175
+West Bengal,Kolkata,Gandhi Road,176
+West Bengal,Kolkata,Thakurpukur,177
+West Bengal,Kolkata,Narendrapur,178
+West Bengal,Kolkata,Jadavpur,179
+West Bengal,Kolkata,Mahamayatala,180
+West Bengal,Kolkata,Harish Mukherjee Road,181
+West Bengal,Kolkata,Chowringhee Mansions,182
+West Bengal,Kolkata,Chowringhee,183
+West Bengal,Kolkata,Behala,184
+West Bengal,Kolkata,Diamond Harbour,185
+West Bengal,Kolkata,Sodepur,186
+West Bengal,Kolkata,Pailan,187
+West Bengal,Kolkata,Batanagar,188
+West Bengal,Kolkata,MAHESHTALA MUNICIPALITY,189
+West Bengal,Kolkata,Dumdum,190
+West Bengal,Kolkata,Kalindi Housing,191
+West Bengal,Kolkata,Lake Town,192
+West Bengal,Kolkata,Jessore Rd,193
+West Bengal,Kolkata,Bidhannagar,194
+West Bengal,Kolkata,DumDum,195
+West Bengal,Kolkata,Barrackpore Trunk Rd,196
+West Bengal,Kolkata,Kestopur,197
+West Bengal,Kolkata,Laketown,198
+West Bengal,Kolkata,Belgharia,199
+West Bengal,Kolkata,Bangur,200
+West Bengal,Kolkata,Chinar Park,201
+West Bengal,Kolkata,Kankurgachi,202
+West Bengal,Kolkata,Barasat,203
+West Bengal,Kolkata,Madhyamgram,204
+Gujarat,Ahmedabad,Hebatpur,205
+Gujarat,Ahmedabad,Sola,206
+Gujarat,Ahmedabad,Near Science City,207
+Gujarat,Ahmedabad,Ghatlodia,208
+Gujarat,Ahmedabad,Science City,209
+Gujarat,Ahmedabad,Ambli,210
+Gujarat,Ahmedabad,Thaltej,211
+Gujarat,Ahmedabad,Palladium,212
+Gujarat,Ahmedabad,Bodakdev,213
+Gujarat,Ahmedabad,Palladium FC,214
+Gujarat,Ahmedabad,Sindhu Bhavan Road,215
+Gujarat,Ahmedabad,Satyamev Shivalik,216
+Gujarat,Ahmedabad,South Bopal,217
+Gujarat,Ahmedabad,Vastrapur,218
+Gujarat,Ahmedabad,Bopal,219
+Gujarat,Ahmedabad,Extension Road,220
+Gujarat,Ahmedabad,Shivam Trade Centre,221
+Gujarat,Ahmedabad,Sindhu Bhavan Raod Near TAJ,222
+Gujarat,Ahmedabad,Adani Shanti Gram,223
+Gujarat,Ahmedabad,Vaishnodevi Circle,224
+Gujarat,Ahmedabad,Vaishno Devi Circle,225
+Gujarat,Ahmedabad,Adalaj,226
+Gujarat,Ahmedabad,Gandhinagar,227
+Gujarat,Ahmedabad,GOTA,228
+Gujarat,Ahmedabad,Rangat Green Memories,229
+Gujarat,Ahmedabad,CROSS ROAD,230
+Gujarat,Ahmedabad,Chandkheda,231
+Gujarat,Ahmedabad,Shantigram,232
+Gujarat,Ahmedabad,Prahlad Nagar,233
+Rajasthan,Jaipur,Malviya Nagar,234
+Rajasthan,Jaipur,Jaipur Textile Market,235
+Rajasthan,Jaipur,Jagatpura,236
+Rajasthan,Jaipur,MALVIYA NAGAR,237
+Rajasthan,Jaipur,Durgapura,238
+Rajasthan,Jaipur,G.T ,239
+Rajasthan,Jaipur,Sector 7,240
+Rajasthan,Jaipur,Vidhyadhar Nagar,241
+Rajasthan,Jaipur,Kadam Vihar,242
+Rajasthan,Jaipur,Jhotwara,243
+Rajasthan,Jaipur,Khatipura,244
+Rajasthan,Jaipur,Dhaba 14,245
+Rajasthan,Jaipur,Kanji Nagar,246
+Rajasthan,Jaipur,Raja Park,247
+Rajasthan,Jaipur,Laxmi Vihar,248
+Rajasthan,Jaipur,Machawa,249
+Rajasthan,Jaipur,Vaishali Nagar,250
+Rajasthan,Jaipur,Near Nursery Circle,251
+Rajasthan,Jaipur,Vidhyadhar,252
+Rajasthan,Jaipur,Shashtri Nagar,253
+Uttar Pradesh,Lucknow,Gomti Nagar,254
+Uttar Pradesh,Lucknow,Arjunganj,255
+Uttar Pradesh,Lucknow,PALASSIO MALL,256
+Uttar Pradesh,Lucknow,Lulu Mall,257
+Uttar Pradesh,Lucknow,GOMTI NAGAR,258
+Uttar Pradesh,Lucknow,Phoenix Mall,259
+Uttar Pradesh,Lucknow,VIBHUTI KHAND,260
+Uttar Pradesh,Lucknow,Sushant Golf City,261
+Uttar Pradesh,Lucknow,Sadar Bazaar,262
+Uttar Pradesh,Lucknow,"Phoenix Palassio, Gomti Nagar",263
+Uttar Pradesh,Lucknow,Jopling Road,264
+Uttar Pradesh,Lucknow,Jankipuram,265
+Uttar Pradesh,Lucknow,Aliganj,266
+Uttar Pradesh,Lucknow,Mahanagar,267
+Uttar Pradesh,Lucknow,Sapru Marg,268
+Uttar Pradesh,Lucknow,Nishatganj,269
+Uttar Pradesh,Lucknow,Vikas Nagar,270
+Uttar Pradesh,Lucknow,Chowk,271
+Uttar Pradesh,Lucknow,Aashiana,272
+Uttar Pradesh,Lucknow,Vrindavan,273
+Uttar Pradesh,Lucknow,Vrindavan Yojana,274
+Uttar Pradesh,Lucknow,Lucknow,275
+Uttar Pradesh,Lucknow,Vrindavan Colony,276
+Uttar Pradesh,Lucknow,Mohanlalganj,277
+Uttar Pradesh,Lucknow,Ashiyana,278
+Uttar Pradesh,Lucknow,Hariharpur,279
+Uttar Pradesh,Lucknow,LULU MALL,280
+Uttar Pradesh,Lucknow,Vrindavan Yojna,281
+Punjab,Chandigarh,Sunny Enclave,282
+Punjab,Chandigarh,West Chd,283
+Punjab,Chandigarh,Gold Square,284
+Punjab,Chandigarh,DESU MAJRA,285
+Punjab,Chandigarh,Mohali Kharar Road Mohali,286
+Punjab,Chandigarh,SECTOR 24,287
+Punjab,Chandigarh,Sector 40 Chd,288
+Punjab,Chandigarh,Sector 38,289
+Punjab,Chandigarh,Sector 16,290
+Punjab,Chandigarh,Sector 15,291
+Punjab,Chandigarh,Sector 37,292
+Punjab,Chandigarh,Sector 24 D,293
+Punjab,Chandigarh,Phase 2,294
+Punjab,Chandigarh,Industrial Area,295
+Punjab,Chandigarh,Sector 40,296
+Punjab,Chandigarh,Sector 24,297
+Punjab,Chandigarh,VR Shopping Mall,298
+Punjab,Chandigarh,Sector 36,299
+Punjab,Chandigarh,Sec. 55,300
+Punjab,Chandigarh,Phase 7 Mohali,301
+Punjab,Chandigarh,Sahibzada Ajit Singh Nagar Mohali,302
+Punjab,Chandigarh,SAS Nagar,303
+Punjab,Chandigarh,Abdullapur,304
+Punjab,Chandigarh,Kalka,305
+Punjab,Chandigarh, Kalka,306
+Punjab,Chandigarh,Phase 10,307
+Punjab,Chandigarh,Phase 10 Mohali,308
+Punjab,Chandigarh,Phase 9 Mohali,309
+Punjab,Chandigarh,Sector 66A,310
+Punjab,Chandigarh,Sector 66,311
+Punjab,Chandigarh,S.A.S NAGAR MOHALI,312
+Punjab,Chandigarh,Mohali,313
+Punjab,Chandigarh,Airport Road,314
+Punjab,Chandigarh,Phase 5 Mohali,315
+Punjab,Chandigarh,Sector 68,316
+Punjab,Chandigarh,Sector 64,317
+Punjab,Chandigarh,MOHALI,318
+Punjab,Chandigarh,Phase 5,319
+Punjab,Chandigarh,Sector 67,320
+Punjab,Chandigarh,Tarf Kumbra,321
+Punjab,Chandigarh,Sector 67 Mohali,322
+Punjab,Chandigarh,Industrial Area Phase 1,323
+Punjab,Chandigarh,Sector 36D,324
+Punjab,Chandigarh,Sector 35,325
+Punjab,Chandigarh,Sector 22,326
+Punjab,Chandigarh,Sector 35 C,327
+Punjab,Chandigarh,East Chandigarh,328
+Madhya Pradesh,Indore,Phoenix,329
+Madhya Pradesh,Indore,Vijay Nagar,330
+Madhya Pradesh,Indore,PHOENIX CITADEL,331
+Madhya Pradesh,Indore,Nipania,332
+Madhya Pradesh,Indore,Khajrana,333
+Madhya Pradesh,Indore,Talawali,334
+Madhya Pradesh,Indore,Phoenix Citadel Mall,335
+Madhya Pradesh,Indore,Pushp Vihar Colony,336
+Madhya Pradesh,Indore,Scheme 54,337
+Madhya Pradesh,Indore,Bypass South,338
+Madhya Pradesh,Indore,PHOENIX CITADEL MALL,339
+Madhya Pradesh,Indore,131 Scheme,340
+Madhya Pradesh,Indore,Village Khajrana Citadel Indore,341
+Madhya Pradesh,Indore,Vijaya Nagar,342
+Madhya Pradesh,Indore,Scheme No 74,343
+Madhya Pradesh,Indore,Satya Sai Square,344
+Madhya Pradesh,Indore,NEAR VIRANDAVAN RESTAURANT,345
+Madhya Pradesh,Indore,Dewas City,346
+Madhya Pradesh,Indore,Dewas Locality,347
+Madhya Pradesh,Indore,Gomti Nagar,348
+Madhya Pradesh,Indore,Ram Nagar,349
+Madhya Pradesh,Indore,TILAK NAGAR,350
+Karnataka,Bengaluru,yelahanka,351
+Karnataka,Bengaluru,Yelahanka New Town,352
+Karnataka,Bengaluru,Yelahanka New,353
+Karnataka,Bengaluru,YELAHANKA,354
+Karnataka,Bengaluru,Virupakshapura,355
+Karnataka,Bengaluru,Yelahanka Sector B,356
+Karnataka,Bengaluru,Yelhanka,357
+Karnataka,Bengaluru,Sahakara Nagar,358
+Karnataka,Bengaluru,Sahakar Nagar,359
+Karnataka,Bengaluru,"Skywards Tech Park, Bangalore",360
+Karnataka,Bengaluru,Electronic City,361
+Karnataka,Bengaluru,Velankani Drive,362
+Karnataka,Bengaluru,Bettadasanapura,363
+Karnataka,Bengaluru,Doddathogur Village,364
+Maharashtra,Mumbai,Airoli Gigaplex,365
+Maharashtra,Mumbai,Dombivli East,366
+Maharashtra,Mumbai,Airoli,367
+Maharashtra,Mumbai,Dombivali,368
+Maharashtra,Mumbai,Hiranandani Estate,369
+Maharashtra,Mumbai,Waghbil,370
+Maharashtra,Mumbai,Thane Hiranandani Estate,371
+Maharashtra,Mumbai,Brahmand,372
+Maharashtra,Mumbai,Rainbow Apartments,373
+Maharashtra,Mumbai,Kopar Khairane,374
+Maharashtra,Mumbai,Ghansoli,375
+Maharashtra,Mumbai,THANE WEST,376
+Maharashtra,Mumbai,Thane,377
+Maharashtra,Mumbai,THANE,378
+Maharashtra,Mumbai,Lodha Vesta A-B,379
+Maharashtra,Mumbai,CHITALSAR MANPADA,380
+Maharashtra,Mumbai,Vasant Vihar,381
+Tamil Nadu,Chennai,Perambur,382
+Tamil Nadu,Chennai,Kellys,383
+Tamil Nadu,Chennai,Kilpauk,384
+Tamil Nadu,Chennai,Vidya Nagar,385
+Tamil Nadu,Chennai,Anna Nagar,386
+Tamil Nadu,Chennai,Thyagaraya Nagar,387
+Tamil Nadu,Chennai,Nungambakkam,388
+Tamil Nadu,Chennai,Purasawalkam,389
+Tamil Nadu,Chennai,Selaivayal,390
+Tamil Nadu,Chennai,Annanagar,391
+Tamil Nadu,Chennai,Chennai,392
+Tamil Nadu,Chennai,Kodungaiyur,393
+Tamil Nadu,Chennai,Kancheepuram,394
+Tamil Nadu,Chennai,Egattur,395
+Tamil Nadu,Chennai,Padur,396
+Tamil Nadu,Chennai,Siruseri,397
+Tamil Nadu,Chennai,Navalur,398
+Tamil Nadu,Chennai,Nehru Nagar,399
+Tamil Nadu,Chennai,OMR Navalur,400
+Tamil Nadu,Chennai,Medavakkam,401
+Tamil Nadu,Chennai,Muthamzhil Nagar,402
+Tamil Nadu,Chennai,Karapakkam,403
+Tamil Nadu,Chennai,Thoraipakkam,404
+Delhi,New Delhi,Sector 63,405
+Delhi,New Delhi,Sector 62,406
+Delhi,New Delhi,Shipra Mall Indirapuram,407
+Delhi,New Delhi,Sector 73,408
+Delhi,New Delhi,Sector 52,409
+Delhi,New Delhi,Sector 65,410
+Delhi,New Delhi,Sector 72,411
+Delhi,New Delhi,C Block,412
+Delhi,New Delhi,Sector 64,413
+Delhi,New Delhi,Sector 59 Noida,414
+Delhi,New Delhi,Cleo County,415
+Delhi,New Delhi,Sector 51,416
+Delhi,New Delhi,Sector 76,417
+Delhi,New Delhi,Sector 61,418
+Delhi,New Delhi,Sector 66,419
+Delhi,New Delhi,Raj Nagar Extension,420
+Delhi,New Delhi,Sanjay Nagar,421
+Delhi,New Delhi,Sector 12,422
+Delhi,New Delhi,HUDA SHOPPING COMPLEX,423
+Delhi,New Delhi,Greenfields_FBD,424
+Delhi,New Delhi,Sector 31,425
+Delhi,New Delhi,Marengo Asia Hospitals,426
+Delhi,New Delhi,Sector 21,427
+Delhi,New Delhi,Sector 15,428
+Delhi,New Delhi,Sector 19,429
+Delhi,New Delhi,Inder Colony,430
+Delhi,New Delhi,Charmwood Village,431
+Delhi,New Delhi,Tughlakabad Institutional Area,432
+Delhi,New Delhi,Greenfields,433
+Delhi,New Delhi,Sector 16,434
+Delhi,New Delhi,Sector 37,435
+Delhi,New Delhi,Sector 21C,436
+Delhi,New Delhi,SECTOR-31,437
+Delhi,New Delhi,Sector 16 Faridabad,438
+Delhi,New Delhi,Sector 16_FBD,439
+Delhi,New Delhi,Faridabad,440
+Delhi,New Delhi,Vaishali,441
+Telangana,Hyderabad,Miyapur,442
+Telangana,Hyderabad,Sri Durga Colony,443
+Telangana,Hyderabad,Nallagandla Village,444
+Telangana,Hyderabad,GSM Mall,445
+Telangana,Hyderabad,ICRISAT Colony,446
+Telangana,Hyderabad,Hafeezpet,447
+Telangana,Hyderabad,Chandanagar,448
+Telangana,Hyderabad,Madinaguda,449
+Telangana,Hyderabad,Kondapur,450
+Telangana,Hyderabad,ameenpur & Lingampally,451
+Telangana,Hyderabad,Nizampet,452
+Telangana,Hyderabad,Sainikpuri,453
+Telangana,Hyderabad,Yapral Kowkoor,454
+Telangana,Hyderabad,Kapra,455
+Telangana,Hyderabad,A. S. Rao Nagar,456
+Telangana,Hyderabad,Ecil,457
+Telangana,Hyderabad,Manchirevula,458
+Telangana,Hyderabad,Narsingi,459
+Telangana,Hyderabad,Kokapet,460
+Telangana,Hyderabad,Manikonda,461
+Telangana,Hyderabad,Narsingi FC,462
+Telangana,Hyderabad,Gandipet,463
+Telangana,Hyderabad,Bandlaguda,464
+Telangana,Hyderabad,Attapur_Suncity_Bandlaguda,465
+Telangana,Hyderabad,Hydershakote,466
+Telangana,Hyderabad,Shanti Nagar,467
+Telangana,Hyderabad,Vanasthalipuram,468
+Telangana,Hyderabad,PEERZADIGUDA,469
+West Bengal,Kolkata,Eco Space,470
+West Bengal,Kolkata,Newtown,471
+West Bengal,Kolkata,Rajarhat,472
+West Bengal,Kolkata,NEWTOWN,473
+West Bengal,Kolkata,Salt Lake,474
+West Bengal,Kolkata,New Town,475
+West Bengal,Kolkata,Eco Park Newtown,476
+West Bengal,Kolkata,Behala Shakuntala Park,477
+West Bengal,Kolkata,Alipore,478
+West Bengal,Kolkata,Diamond Harbour Road,479
+West Bengal,Kolkata,MAHATMA GANDHI ROAD,480
+West Bengal,Kolkata,Barisha,481
+West Bengal,Kolkata,Block A,482
+West Bengal,Kolkata,James Long,483
+West Bengal,Kolkata,Nemai Bhawan,484
+West Bengal,Kolkata,STATION ROAD,485
+Gujarat,Ahmedabad,Isanpur,486
+Gujarat,Ahmedabad,Naroda,487
+Gujarat,Ahmedabad,Paldi,488
+Gujarat,Ahmedabad,Majestic Law Garden,489
+Gujarat,Ahmedabad,CG Road,490
+Gujarat,Ahmedabad,Prem Chand Nagar,491
+Gujarat,Ahmedabad,Navrangpura,492
+Gujarat,Ahmedabad,Vejalpur,493
+Gujarat,Ahmedabad,Ambawadi,494
+Gujarat,Ahmedabad,"Sachin Tower, Prahladnagar",495
+Gujarat,Ahmedabad,"GF 1,2 MAHAVIR TOWER",496
+Gujarat,Ahmedabad,Celebration City Centre Bopal,497
+Gujarat,Ahmedabad,Sindhu Bhavan,498
+Gujarat,Ahmedabad,Ugti Dham,499
+Gujarat,Ahmedabad,Phoenix Palladium,500
+Gujarat,Ahmedabad,Nikol,501
+Rajasthan,Jaipur,Adarsh Nagar,502
+Rajasthan,Jaipur,C Scheme,503
+Rajasthan,Jaipur,Bani Park,504
+Rajasthan,Jaipur,Johari Bazaar,505
+Rajasthan,Jaipur,Pink City,506
+Rajasthan,Jaipur,Lal Kothi,507
+Rajasthan,Jaipur,Civil Lines,508
+Rajasthan,Jaipur,Axis Mall,509
+Rajasthan,Jaipur,MI Road,510
+Rajasthan,Jaipur,Bais Godam,511
+Rajasthan,Jaipur,Sahakar Marg,512
+Rajasthan,Jaipur,Sindhi Camp,513
+Rajasthan,Jaipur,Gopalpura,514
+Rajasthan,Jaipur,Kukas,515
+Rajasthan,Jaipur,Pratap Nagar,516
+Rajasthan,Jaipur,Mansarovar,517
+Rajasthan,Jaipur,Sanganer,518
+Rajasthan,Jaipur,Hans Vihar,519
+Uttar Pradesh,Lucknow,Ahmamau,520
+Uttar Pradesh,Lucknow,Indira Nagar,521
+Uttar Pradesh,Lucknow,Bbd,522
+Uttar Pradesh,Lucknow,Semra,523
+Uttar Pradesh,Lucknow,Chinhat,524
+Uttar Pradesh,Lucknow,INDIRA NAGAR,525
+Uttar Pradesh,Lucknow,Adhar kheda,526
+Uttar Pradesh,Lucknow,Indra Nagar,527
+Uttar Pradesh,Lucknow,Land Mark Square Commercial Complex,528
+Uttar Pradesh,Lucknow,Khurram Nagar,529
+Uttar Pradesh,Lucknow,Crown mall Lucknow,530
+Uttar Pradesh,Lucknow,Crown Mall,531
+Uttar Pradesh,Lucknow,Kamta,532
+Uttar Pradesh,Lucknow,Kamla Nehru Nagar,533
+Uttar Pradesh,Lucknow,Omaxe heights,534
+Uttar Pradesh,Lucknow,CONCEPT POINT,535
+Uttar Pradesh,Lucknow,Vibhuti khand,536
+Punjab,Chandigarh,Panchkula,537
+Punjab,Chandigarh,KC Cross Road,538
+Punjab,Chandigarh,Sector 9,539
+Punjab,Chandigarh,Sector 11 Panchkula,540
+Punjab,Chandigarh,Sector 8 Panchkula,541
+Punjab,Chandigarh,Sector 5,542
+Punjab,Chandigarh,Sector 9 Panchkula,543
+Punjab,Chandigarh,Opposite Panchkula Bus Stand,544
+Punjab,Chandigarh,Manimazra,545
+Punjab,Chandigarh,Sector 21,546
+Punjab,Chandigarh,Sector 20,547
+Punjab,Chandigarh,Manimajra,548
+Punjab,Chandigarh,Sector 5 MDC Panchkula,549
+Punjab,Chandigarh,Sector 10 Panchkula,550
+Punjab,Chandigarh,Sector 125 Mohali,551
+Punjab,Chandigarh,Greater Mohali,552
+Punjab,Chandigarh,Jal Vayu Vihar,553
+Punjab,Chandigarh,New Chd,554
+Punjab,Chandigarh,South Mohali,555
+Punjab,Chandigarh,Sector 34,556
+Punjab,Chandigarh,Chandigarh,557
+Punjab,Chandigarh,Zirakpur,558
+Punjab,Chandigarh,AiportRoad Mohali,559
+Punjab,Chandigarh,Aero Arcade,560
+Punjab,Chandigarh,VIP Road,561
+Punjab,Chandigarh,Aerocity,562
+Punjab,Chandigarh,SECTOR 82,563
+Punjab,Chandigarh,Sector 82,564
+Madhya Pradesh,Indore,Race Course Road,565
+Madhya Pradesh,Indore,Bhawar Kuan,566
+Madhya Pradesh,Indore,Khatiwala,567
+Madhya Pradesh,Indore,South Tukoganj,568
+Madhya Pradesh,Indore,TI MALL,569
+Madhya Pradesh,Indore,Sudama Nagar,570
+Madhya Pradesh,Indore,Transport Nagar,571
+Madhya Pradesh,Indore,Sapna Sangeeta mall,572
+Madhya Pradesh,Indore,New Palasia,573
+Madhya Pradesh,Indore,Rajendra Nagar,574
+Madhya Pradesh,Indore,Bhavarkua,575
+Madhya Pradesh,Indore,Beside Rajnandani Hotel,576
+Madhya Pradesh,Indore,Bhawarkuan Main Road,577
+Madhya Pradesh,Indore,Gram Tejpur Gadbadi Pulia,578
+Madhya Pradesh,Indore,Treasure Island Indore,579
+Madhya Pradesh,Indore,Madhumilan Square,580
+Madhya Pradesh,Indore,Bypass North,581
+Madhya Pradesh,Indore,Old Palasia,582
+Madhya Pradesh,Indore,Bicholi Mardana,583
+Madhya Pradesh,Indore,SAKET SQUARE,584
+Madhya Pradesh,Indore,Saket,585
+Madhya Pradesh,Indore,Indore,586
+Madhya Pradesh,Indore,DHENU MARKET,587
+Madhya Pradesh,Indore,RNT Marg,588
+Madhya Pradesh,Indore,Sheetal Nagar,589
+Bihar,Patna,BAKSHI MOHALLA,590
+Bihar,Patna,Kankarbagh,591
+Bihar,Patna,Kumhrar,592
+Bihar,Patna,Adarsh Colony,593
+Bihar,Patna,Pat_Fatuha,594
+Bihar,Patna,Patna City,595
+Bihar,Patna,Kankarbagh ,596
+Bihar,Patna,Patliputra Colony,597
+Bihar,Patna,Kurji,598
+Bihar,Patna,DRB- BhattaCharya Road,599
+Bihar,Patna,"UNO Business Center, Patliputra",600
+Bihar,Patna,P&M Mall,601
+Bihar,Patna,Srikrishnapuri,602
+Bihar,Patna,Sri Krishnapuri,603
+Bihar,Patna,KURJI,604
+Bihar,Patna,Boring Road,605
+Bihar,Patna,Sri Krishna Puri,606
+Bihar,Patna,Boring Canal Road,607
+Bihar,Patna,ASHIYANA DIGHA ROAD,608
+Bihar,Patna,Chandra Kutir Complex,609
+Bihar,Patna,Vivek Vihar Colony,610
+Bihar,Patna,atna Sadar,611
+Bihar,Patna,Hajipur,612
+Bihar,Patna,Anandpuri,613
+Bihar,Patna,Vaishali,614
+Bihar,Patna,Rajendra Nagar,615
+Bihar,Patna,near vaishali golambar road,616
+Bihar,Patna,Boring Patliputra Road,617
+Odisha,Bhubaneswar,Kalinga Vihar,618
+Odisha,Bhubaneswar,Patrapada,619
+Odisha,Bhubaneswar,PATRAPADA,620
+Odisha,Bhubaneswar,Mallick Complex,621
+Odisha,Bhubaneswar,Jagmohan Nagar,622
+Odisha,Bhubaneswar,Baramunda,623
+Odisha,Bhubaneswar,Khandagiri,624
+Odisha,Bhubaneswar,ITER Road,625
+Odisha,Bhubaneswar,DN Regalia,626
+Odisha,Bhubaneswar,Nayapalli,627
+Odisha,Bhubaneswar,Kalinga Nagar,628
+Odisha,Bhubaneswar,Patia,629
+Odisha,Bhubaneswar,Baxi Bazar,630
+Odisha,Bhubaneswar,CDA Sector 6,631
+Odisha,Bhubaneswar,Telenga Bazar,632
+Odisha,Bhubaneswar,Sutahat,633
+Odisha,Bhubaneswar,College Square,634
+Odisha,Bhubaneswar,Darghabazar,635
+Odisha,Bhubaneswar,Khan Nagar,636
+Odisha,Bhubaneswar,Cda Sector 6,637
+Odisha,Bhubaneswar,Link Road,638
+Odisha,Bhubaneswar,Mal Godown Market,639
+Odisha,Bhubaneswar,Municipal Colony,640
+Odisha,Bhubaneswar,Choudhury Bazar,641
+Odisha,Bhubaneswar,Pandaba Nagar,642
+Odisha,Bhubaneswar,CUTTACK,643
+Odisha,Bhubaneswar,"ZOBRA,CANAL ROAD",644
+Odisha,Bhubaneswar,Chandrasekharpur,645
+Haryana,Gurgaon,NAJAFGARH,646
+Haryana,Gurgaon,Najafgarh,647
+Haryana,Gurgaon,New Palam Vihar,648
+Haryana,Gurgaon,Sector 109,649
+Haryana,Gurgaon,Near Shree Bikaner Sweets,650
+Haryana,Gurgaon,Sector-106,651
+Haryana,Gurgaon,SECTOR-109,652
+Haryana,Gurgaon,Maitra Complex,653
+Haryana,Gurgaon,Palam Vihar,654
+Haryana,Gurgaon,CONSCIENT ONE,655
+Haryana,Gurgaon,Sector 99,656
+Haryana,Gurgaon,Sector 37,657
+Haryana,Gurgaon,Near Goga Mandir,658
+Haryana,Gurgaon,Sector 4,659
+Haryana,Gurgaon,Old Railway Road,660
+Haryana,Gurgaon,Sohna Road,661
+Haryana,Gurgaon,Sec-4 (Huda),662
+Haryana,Gurgaon,Sector 5,663
+Haryana,Gurgaon,Old Gurgaon (Zone 6),664
+Haryana,Gurgaon,"Sector 37,Gurgaon",665
+Haryana,Gurgaon,MG Road,666
+Haryana,Gurgaon,Vasant Kunj,667
+Haryana,Gurgaon,Vasanth Kunj,668
+Haryana,Gurgaon,Chattarpur,669
+Haryana,Gurgaon,Malviya Nagar,670
+Haryana,Gurgaon,VASANT VIHAR,671
+Haryana,Gurgaon,Mehrauli,672
+Haryana,Gurgaon,Chhatarpur,673
+Haryana,Gurgaon,CHHATTARPUR,674
+Haryana,Gurgaon,Green Park,675
+Haryana,Gurgaon,Lado Sarai,676
+Kerala,Kochi,Vazakala,677
+Kerala,Kochi,Edappally,678
+Kerala,Kochi,Kakkanad,679
+Kerala,Kochi,Ernakulam,680
+Kerala,Kochi,EDAPPALLY.P.O,681
+Kerala,Kochi,Thrikkakara,682
+Kerala,Kochi,Palarivattom,683
+Kerala,Kochi,Vyttila,684
+Kerala,Kochi,Kacheripadi,685
+Kerala,Kochi,Elamkulam,686
+Kerala,Kochi,Central Square Mall,687
+Kerala,Kochi,Kaloor,688
+Kerala,Kochi,Kadavanthra,689
+Kerala,Kochi,Kolenchery,690
+Kerala,Kochi,Piravom,691
+Kerala,Kochi,Kochi,692
+Kerala,Kochi,Kacheripady,693
+Kerala,Kochi,MGÂ Road,694
+Kerala,Kochi,Lulu Mall,695
+Kerala,Kochi,MG Road,696
+Kerala,Kochi,Lulu Kochi,697
+Kerala,Kochi,Pallimukku,698
+Kerala,Kochi,Ravipuram,699
+Kerala,Kochi,Pachalam Junction,700
+Kerala,Kochi,Marad,701
+Kerala,Kochi,Kundanoor Maradu,702
+Kerala,Kochi,Maradu,703
+Kerala,Kochi,Nettoor,704
+Kerala,Kochi,Kalavamcodam,705
+Jharkhand,Ranchi,Bariatu,706
+Jharkhand,Ranchi,Kokar,707
+Jharkhand,Ranchi,Namkum,708
+Jharkhand,Ranchi,Jai Prakash Nagar,709
+Jharkhand,Ranchi,Khelgaon,710
+Jharkhand,Ranchi,Doranda,711
+Jharkhand,Ranchi,Hindpiri,712
+Jharkhand,Ranchi,Hatia,713
+Jharkhand,Ranchi,BLUE DIAMOND,714
+Jharkhand,Ranchi,CIRCULAR RD,715
+Jharkhand,Ranchi,LALPUR,716
+Jharkhand,Ranchi,Lalpur,717
+Jharkhand,Ranchi,Harmu Ranchi,718
+Jharkhand,Ranchi,Purulia Road,719
+Jharkhand,Ranchi,Ashok Nagar,720
+Jharkhand,Ranchi,Main Road,721
+Jharkhand,Ranchi,Kanke Road,722
+Jharkhand,Ranchi,Churuwala,723
+Jharkhand,Ranchi,Mesra,724
+Jharkhand,Ranchi,mesra,725
+Assam,Guwahati,Amingaon,726
+Assam,Guwahati,Jalukbari,727
+Assam,Guwahati,NCS Square Mall,728
+Assam,Guwahati,Maligaon,729
+Assam,Guwahati,Borjhar,730
+Assam,Guwahati,Mirza,731
+Assam,Guwahati,Azara,732
+Assam,Guwahati,Rani Gate,733
+Assam,Guwahati,NCS SQUARE MALL,734
+Assam,Guwahati,Gorchuk,735
+Assam,Guwahati,Lokhra,736
+Assam,Guwahati,Boragaon,737
+Assam,Guwahati,Hatigaon,738
+Assam,Guwahati,Zoo Narengi Road,739
+Assam,Guwahati,Six Mile,740
+Assam,Guwahati,UDESHNA,741
+Assam,Guwahati,Borbari,742
+Assam,Guwahati,Guwahati,743
+Assam,Guwahati,Ganeshguri,744
+Assam,Guwahati,GS Road,745
+Assam,Guwahati,Six mile,746
+Assam,Guwahati,Christian Basti,747
+Assam,Guwahati,Zoo Tiniali,748
+Assam,Guwahati,Beltola,749
+Assam,Guwahati,Rukmini Gaon,750
+Assam,Guwahati,Narengi,751
+Assam,Guwahati,Silpukhuri,752
+Assam,Guwahati, BIRKUCHI,753
+Assam,Guwahati,BishnuRavaPath,754
+Assam,Guwahati,Kala Pahar,755
+Assam,Guwahati,Jatia,756
+Chhattisgarh,Raipur,Magneto The Mall,757
+Chhattisgarh,Raipur,MAGNETO MALL,758
+Chhattisgarh,Raipur,Shankar Nagar,759
+Chhattisgarh,Raipur,Zora Mall,760
+Chhattisgarh,Raipur,Purena,761
+Chhattisgarh,Raipur,Mahaveer Nagar,762
+Chhattisgarh,Raipur,Civil Lines,763
+Chhattisgarh,Raipur,Vishal Nagar,764
+Chhattisgarh,Raipur,Labhandi,765
+Chhattisgarh,Raipur,Labhandih,766
+Chhattisgarh,Raipur,Chakan,767
+Chhattisgarh,Raipur,Shyam Nagar,768
+Chhattisgarh,Raipur,magnato the mall,769
+Chhattisgarh,Raipur,Govind Nagar,770
+Chhattisgarh,Raipur,Tatibandh,771
+Chhattisgarh,Raipur,Pandri,772
+Chhattisgarh,Raipur,Wrd 30. Shankar Nagar,773
+Chhattisgarh,Raipur,Telibandha Square,774
+Chhattisgarh,Raipur,Avanti Vihar,775
+Chhattisgarh,Raipur,Katora Talab,776
+Chhattisgarh,Raipur,Samta Housing Construction,777
+Chhattisgarh,Raipur,Samta Colony,778
+Chhattisgarh,Raipur,Pachpedi Naka,779
+Uttarakhand,Dehradun,Prem Nagar,780
+Uttarakhand,Dehradun,Bengali Club,781
+Uttarakhand,Dehradun,Selakui,782
+Uttarakhand,Dehradun,Central Hope Town,783
+Uttarakhand,Dehradun,Township Bidholi,784
+Uttarakhand,Dehradun,Bidholi,785
+Uttarakhand,Dehradun,Vikas Nagar,786
+Uttarakhand,Dehradun,Doiwala,787
+Uttarakhand,Dehradun,Bhaniyawala,788
+Uttarakhand,Dehradun,Chukkuwala,789
+Uttarakhand,Dehradun,Oasis Mall,790
+Uttarakhand,Dehradun,Dehradun,791
+Uttarakhand,Dehradun,Pitambar plaza,792
+Uttarakhand,Dehradun,Jogiwala,793
+Uttarakhand,Dehradun,"Mall Of Dehradun , Miyanwala",794
+Uttarakhand,Dehradun,Rajpur Road,795
+Uttarakhand,Dehradun,Subhash Road,796
+Uttarakhand,Dehradun,Culinary Central 72,797
+Uttarakhand,Dehradun,Mall of Dehradun,798
+Uttarakhand,Dehradun,"Mall Of Dehradun, Haridwar Road",799
+Uttarakhand,Dehradun,Hathibarkala Salwala,800
+Uttarakhand,Dehradun,Shahastradhara,801
+Uttarakhand,Dehradun,Jakhan,802
+Uttarakhand,Dehradun,PACIFIC HILLS,803
+Uttarakhand,Dehradun,Chironwali,804
+Uttarakhand,Dehradun,Nalapani Chowk,805
+Uttarakhand,Dehradun,Malsi,806
+Uttarakhand,Dehradun,Hathibarkala,807
+Uttarakhand,Dehradun,Raipur,808
+Uttarakhand,Dehradun,SATYA TOWER,809
+Uttarakhand,Dehradun,Rajeshwar nagar,810
+Uttarakhand,Dehradun,Karanpur,811
+Himachal Pradesh,Shimla,Mall Road,812
+Himachal Pradesh,Shimla,Lakkar Bazar,813
+Himachal Pradesh,Shimla,Combermere House,814
+Himachal Pradesh,Shimla,Shilli,815
+Himachal Pradesh,Shimla,Longwood,816
+Himachal Pradesh,Shimla,Tehsil Shimla,817
+Himachal Pradesh,Shimla,South Shimla,818
+Himachal Pradesh,Shimla,Sanjauli,819
+Himachal Pradesh,Shimla,Mall Road Solan,820
+Himachal Pradesh,Shimla,Solan Town,821
+Himachal Pradesh,Shimla,Lakkar Bazar Solan,822
+Himachal Pradesh,Shimla,"Anand Complex, The Mall, Solan",823
+Goa,Panaji,Bardez,824
+Goa,Panaji,Mapusa,825
+Goa,Panaji,Mazal Waddo,826
+Goa,Panaji,"Opp Bharat Petrol Pump,Bamman Vaddo, Siolim",827
+Goa,Panaji,Anjuna,828
+Goa,Panaji,Calangute,829
+Goa,Panaji,Assagao,830
+Goa,Panaji,Baga Calangute,831
+Goa,Panaji,Vagator,832
+Goa,Panaji,Bouta Waddo,833
+Goa,Panaji,St Anthonys Apartments,834
+Goa,Panaji,Nor_Baga-Calangute,835
+Goa,Panaji,Coutinho Vaddo Vagator,836
+Goa,Panaji,Nor_Baga Calangute,837
+Goa,Panaji,North Goa,838
+Goa,Panaji,Mapusa Municipal Market,839
+Goa,Panaji,Municipal Market,840
+Goa,Panaji,Swatantra Path,841
+Goa,Panaji,Dabolim,842
+Goa,Panaji,Vasco Da Gama,843
+Goa,Panaji,Vasco,844
+Goa,Panaji,Vasco da Gama,845
+Goa,Panaji,Bogmalo,846
+Jammu and Kashmir,Srinagar,Rajbagh,847
+Jammu and Kashmir,Srinagar,Karanagar,848
+Jammu and Kashmir,Srinagar,Bohri Kadal,849
+Jammu and Kashmir,Srinagar,Dalgate,850
+Jammu and Kashmir,Srinagar,Islamia College,851
+Jammu and Kashmir,Srinagar,Nigeen,852
+Jammu and Kashmir,Srinagar,Mala Bagh,853
+Jammu and Kashmir,Srinagar,Rainawari,854
+Jammu and Kashmir,Srinagar,"Dalgate,opposite ghat no:2",855
+Jammu and Kashmir,Srinagar,Munawarabad,856
+Jammu and Kashmir,Srinagar,Khayam,857
+Jammu and Kashmir,Srinagar,Boulevard,858
+Jammu and Kashmir,Srinagar,Sonwar,859
+Jammu and Kashmir,Srinagar,Zakura,860
+Jammu and Kashmir,Srinagar,Habak,861
+Jammu and Kashmir,Srinagar,Jahangir Chowk,862
+Jammu and Kashmir,Srinagar,Humhama,863
+Jammu and Kashmir,Srinagar,Bemina,864
+Jammu and Kashmir,Srinagar,Rajbagh ,865
+Jammu and Kashmir,Srinagar,Batamaloo,866
+Jammu and Kashmir,Srinagar,City Mall - Lal Chowk,867
+Jammu and Kashmir,Srinagar,Rambagh,868
+Jammu and Kashmir,Srinagar,Baghat Barzulla,869
+Jammu and Kashmir,Srinagar,Lal Chowk,870
+Jammu and Kashmir,Srinagar,Gogji Bagh,871
+Jammu and Kashmir,Srinagar,"Lal Chowk,Gurudwara complex",872
+Jammu and Kashmir,Srinagar,Residency Road,873
+Jammu and Kashmir,Srinagar,Food Souk,874
+Jammu and Kashmir,Srinagar,City Walk,875
+Jammu and Kashmir,Srinagar,Nowgam,876
+Jammu and Kashmir,Srinagar,Chanapora,877
+Jammu and Kashmir,Srinagar,Natipora,878
+Jammu and Kashmir,Srinagar,Kursu,879
+Jammu and Kashmir,Srinagar,JawaharNagar,880
+Jammu and Kashmir,Srinagar,Sanath Nagar,881
+Jammu and Kashmir,Srinagar,Padshahi Bagh,882
+Jammu and Kashmir,Srinagar,Sanatnagar,883
+Tripura,Agartala,Gurkhabasti,884
+Tripura,Agartala,North Gate,885
+Tripura,Agartala,Gurkhabosti,886
+Tripura,Agartala,Circuit House,887
+Tripura,Agartala,HGB Road,888
+Tripura,Agartala,Dhaleswar,889
+Tripura,Agartala,Motorstand,890
+Tripura,Agartala,Kaman Chowmuhai,891
+Tripura,Agartala,Laxminarayan Bari Road,892
+Tripura,Agartala,Battala,893
+Tripura,Agartala,Kaman Chowmuhani,894
+Tripura,Agartala,Post Office Chowmuhani,895
+Tripura,Agartala,Shankar Chowmuhani,896
+Tripura,Agartala,Palace Compound,897
+Tripura,Agartala,Hapania,898
+Tripura,Agartala,Advisor Chowmuhani,899
+Tripura,Agartala,Laxmi Narayan Bari Road,900
+Tripura,Agartala,Dom_Only_Agartala,901
+Tripura,Agartala,Udaipur,902
+Tripura,Agartala,Jay Nagar,903
+Tripura,Agartala,Ramnagar,904
+Tripura,Agartala,Lal Bahadur,905
+Tripura,Agartala,Heritage park,906
+Tripura,Agartala,Motor Stand,907
+Tripura,Agartala,Banamalipur,908
+Tripura,Agartala,Kalyani,909
+Tripura,Agartala,Ganaraj Chowmuhani,910
+Tripura,Agartala,Krishna Nagar,911
+Tripura,Agartala,Lal Bahudur Chowmuhani,912
+Tripura,Agartala,Nagerjala,913
+Tripura,Agartala,Milan Chakra,914
+Tripura,Agartala,BATTALA BAZAR,915
+Tripura,Agartala,Amtali Area,916
+Manipur,Imphal,Keishamthong,917
+Manipur,Imphal,Chingamikha,918
+Manipur,Imphal,Sega Road,919
+Manipur,Imphal,Chingmeirong,920
+Manipur,Imphal,Moirangkhom,921
+Manipur,Imphal,Thangal Bazaar,922
+Manipur,Imphal,Nepra Menjor Road,923
+Manipur,Imphal,Dharmasala,924
+Manipur,Imphal,Nagamapal,925
+Manipur,Imphal,Sagolband,926
+Manipur,Imphal,Sangaiprou,927
+Manipur,Imphal,Majorkhul,928
+Manipur,Imphal,Singjamei,929
+Manipur,Imphal,Thangal Bazar,930
+Manipur,Imphal,Khuyathong,931
+Manipur,Imphal,Checkon,932
+Manipur,Imphal,Khurai,933
+Manipur,Imphal,Nagaram ,934
+Manipur,Imphal,Thangapat,935
+Manipur,Imphal,Lamphel,936
+Manipur,Imphal,Kabo Leika,937
+Manipur,Imphal,Imphal,938
+Manipur,Imphal,Kwakeithel,939
+Manipur,Imphal,Takhel Leikai,940
+Manipur,Imphal,Ghari,941
+Manipur,Imphal,Keishampat,942
+Manipur,Imphal,Bamon Leikai,943
+Manipur,Imphal,Wangkhei,944
+Manipur,Imphal,Thangmeiband,945
+Meghalaya,Shillong,Police Bazar,946
+Meghalaya,Shillong,Nongthymmai Nongkhyriem,947
+Meghalaya,Shillong,Oakland Road,948
+Meghalaya,Shillong,Upper Nongthymmai,949
+Meghalaya,Shillong,Laban,950
+Meghalaya,Shillong,Laitumkhrah,951
+Meghalaya,Shillong,Polo,952
+Meghalaya,Shillong,Fire Brigade,953
+Meghalaya,Shillong,MES,954
+Meghalaya,Shillong,Laitukhrah main road,955
+Meghalaya,Shillong,Demseiniong,956
+Meghalaya,Shillong,Police Bazaar,957
+Meghalaya,Shillong,Keating Road,958
+Meghalaya,Shillong,Dhankheti,959
+Nagaland,Kohima,Old NST,960
+Nagaland,Kohima,Razu Point,961
+Nagaland,Kohima,BOC,962
+Nagaland,Kohima,Jail Road,963
+Nagaland,Kohima,Phoolbari,964
+Nagaland,Kohima,Kohima Locality,965
+Nagaland,Kohima,Kohima,966
+Nagaland,Kohima,Midland,967
+Nagaland,Kohima,Elite Complex,968
+Nagaland,Kohima,High school,969
+Nagaland,Kohima,High School Colony,970
+Mizoram,Aizawl,Zotlang Peng,971
+Mizoram,Aizawl,Aizwal,972
+Mizoram,Aizawl,Zarkawt,973
+Mizoram,Aizawl,Bazaar,974
+Mizoram,Aizawl,Khatla,975
+Mizoram,Aizawl,Laitan,976
+Mizoram,Aizawl,Upper Republic,977
+Mizoram,Aizawl,Zodin,978
+Mizoram,Aizawl,Bazaar Bungkawn,979
+Mizoram,Aizawl,Aizawl,980
+Mizoram,Aizawl,Company peng,981
+Mizoram,Aizawl,Sanadhi Building,982
+Mizoram,Aizawl,Bazaar Bungkan,983
+Mizoram,Aizawl,Chanmari,984
+Mizoram,Aizawl,Temple,985
+Mizoram,Aizawl,Bawngkawn,986
+Mizoram,Aizawl,Bowngkawn,987
+Mizoram,Aizawl,Only_Dominos_Aizawl,988
+Sikkim,Gangtok,Gangtok,989
+Sikkim,Gangtok,"MG Road, Gangtok",990
+Sikkim,Gangtok,Gairigaon,991
+Sikkim,Gangtok,West Point,992
+Sikkim,Gangtok,Baluwakhani,993
+Sikkim,Gangtok,Sikkim Manipal,994
+Sikkim,Gangtok,DISTRICT COURT,995
