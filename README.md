@@ -104,3 +104,12 @@ erDiagram
         int year
     }
   
+## 📊 Item 7 - Análise de Dados (Visualizar)
+
+Nesta etapa, utilizamos o **Metabase** integrado à **Dadosfera** para transformar os dados modelados na camada **Gold** em dashboards executivos, focados na geração de insights para tomada de decisão.
+
+### **Queries e Visualizações:**
+*   **KPIs de Negócio:** Implementação de indicadores de performance como **Ticket Médio** e **Volume Total de Pedidos** através de agregações SQL na tabela `fact_orders`.
+*   **Análise Geográfica:** Visualização da distribuição de vendas por **Estado e Cidade**, permitindo identificar as regiões com maior faturamento e potencial de expansão.
+*   **Performance de Culinária:** Gráficos comparativos demonstrando a popularidade de categorias de pratos, integrando os dados enriquecidos pela **GenAI**.
+*   **Análise de Satisfação:** Gráfico de dispersão cruzando o **Preço** vs. **Avaliação (Rating)**, identificando o equilíbrio entre custo e qualidade percebida pelo cliente.
