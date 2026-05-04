@@ -46,4 +46,4 @@ Para garantir que os dados consumidos pelo negócio fossem confiáveis , impleme
 
 **Resultado da Validação:**
 *   **Status:**  Sucesso Geral.Ativos Gerados: O relatório completo de validação foi salvo na pasta quality/relatorio_qualidade.json.
-*   
+    
