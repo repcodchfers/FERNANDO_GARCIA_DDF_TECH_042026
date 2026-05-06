@@ -26,8 +26,24 @@ gantt
     Data App e Vídeo Final          :p5, after p4, 2d
 ```
 ## 📥 Item 1 & 2 - Base de Dados e Ingestão (Collect)
-*   **Dataset Selecionado:** Swiggy Marketplace Dataset (Índia).
-*   **Volume:**  197430  registros, garantindo a robustez da análise.
+*   **Dataset Selecionado:** Swiggy 
+  Descrição do Dataset
+
+    Domínio: E-commerce de Food Delivery (Swiggy Marketplace).
+
+    Volume: ~197.430 registros .
+
+    Entidades principais:
+
+        Geografia: State, City, Location.
+
+        Vendedor: Restaurant Name.
+
+        Catálogo: Category, Dish Name.
+
+        Métricas/Performance: Price, Rating, Rating Count.
+
+        Temporal: Order Date.      
 *   **Estratégia de Ingestão:** Utilização do módulo **Collect** da Dadosfera para carregamento de raw data (Camada Bronze).
 
 ## 🔍 Item 3 & 4 - Catálogo e Data Quality (Explorar)
