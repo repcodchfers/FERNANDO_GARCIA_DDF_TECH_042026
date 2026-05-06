@@ -130,7 +130,8 @@ erDiagram
 ## 📊 Item 7 - Análise de Dados (Visualizar)
 
 Nesta etapa, utilizamos o Metabase e PowerBI integrado à Dadosfera para transformar os dados modelados na camada **Gold** em dashboards executivos, focados na geração de insights para tomada de decisão.
-![Dashboard](/img/dash.png).
+<img width="1166" height="757" alt="dash" src="https://github.com/user-attachments/assets/866d961a-21b3-4e50-a01b-7beec1a800d3" />
+
 ### **Queries e Visualizações:**
 *   **KPIs de Negócio:** Implementação de indicadores de performance como **Ticket Médio** e **Volume Total de Pedidos** através de agregações SQL na tabela `fact_orders`.
 *   **Análise Geográfica:** Visualização da distribuição de vendas por **Estado e Cidade**, permitindo identificar as regiões com maior faturamento e potencial de expansão.
