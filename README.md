@@ -52,7 +52,7 @@ Para garantir a confiança nos insights gerados, implementei uma camada de **Dat
 Para garantir a integridade dos 170k registros, foram implementadas as seguintes regras de validação via Great Expectations:
 
 | Coluna | Regra de Validação | Justificativa |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | `dish_name` | `expect_column_values_to_not_be_null` | Itens sem nome não podem ser catalogados. |
 | `price_inr` | `expect_column_values_to_be_between` (min: 0.01) | Preços nulos ou negativos invalidam a análise financeira. |
 | `rating` | `expect_column_values_to_be_between` (1.0 - 5.0) | Notas fora do padrão distorcem o ranking de qualidade. |
