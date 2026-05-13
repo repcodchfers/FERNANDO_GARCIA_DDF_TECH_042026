@@ -27,7 +27,7 @@ gantt
 ```
 ## 📥 Item 1 & 2 - Base de Dados e Ingestão (Collect)
 *   **Dataset Selecionado:** Swiggy 
-  Descrição do Dataset
+    Descrição do Dataset
 
     Domínio: E-commerce de Food Delivery (Swiggy Marketplace).
 
